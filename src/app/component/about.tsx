@@ -20,7 +20,7 @@ const About = () => {
               About Me
             </h1>
             <p className="mb-5 leading-relaxed">
-            "Hi, I am a passionate Web Developer with a deep love for Next.js, Tailwind CSS, Sanity.io, and shadcn/ui. With 6 months of experience, I specialize in creating user-friendly websites and innovative solutions that blend creativity and functionality. I am always eager to learn, grow, and take on new challenges. When I am not working. Lets connect and create something incredible together!"
+            Hi, I am a passionate Web Developer with a deep love for Next.js, Tailwind CSS, Sanity.io, and shadcn/ui. With 6 months of experience, I specialize in creating user-friendly websites and innovative solutions that blend creativity and functionality. I am always eager to learn, grow, and take on new challenges. When I am not working. Lets connect and create something incredible together!
             </p>
             {/* <p className="mb-5 leading-relaxed">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum
