@@ -25,7 +25,7 @@ const Hero = () => {
           </h1>
           <div className="w-[100px] h-[2px] bg-blue-700"></div>
           <p className="mb-8 mt-3 leading-relaxed text-blue-100">
-          "Welcome! I'm S.M.Ahmar Ali, a passionate Web Developer dedicated to crafting impactful and innovative solutions. With a keen eye for detail and a love for creativity, I bring ideas to life through Next.js,Tailwind CSS, Shadcn/ui, Sanity.io. Whether it's building seamless digital experiences or solving complex problems, I thrive on turning visions into reality. Explore my work and let's create something amazing together!"
+          "Welcome! I am S.M.Ahmar Ali, a passionate Web Developer dedicated to crafting impactful and innovative solutions. With a keen eye for detail and a love for creativity, I bring ideas to life through Next.js,Tailwind CSS, Shadcn/ui, Sanity.io. Whether its building seamless digital experiences or solving complex problems, I thrive on turning visions into reality. Explore my work and let's create something amazing together!"
           </p>
           <div className="flex justify-center">
             <Link href={"#Contact"}>
