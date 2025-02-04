@@ -2,26 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.custom-image{
+  background-image: url(https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30436.jpg?t=st=1738661377~exp=1738664977~hmac=02aba6ed61811a34dc9cf10f35f3d520e4ddac97a587ebd6d8b53f618b6a35bf&w=900);
 }
