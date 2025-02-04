@@ -3,7 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import Typewriter from "typewriter-effect";
-import { CiInstagram } from "react-icons/ci";
 
 const Hero = () => {
   return (
