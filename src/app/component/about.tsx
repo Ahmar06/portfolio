@@ -29,7 +29,7 @@ const About = () => {
               veritatis eum? Neque atque ea laboriosam.
             </p> */}
             <div className="flex justify-center">
-              <a href={""}>
+              <a href={"/public/cv/Resume.pdf"}>
                 <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
                   View CV
                 </button>
