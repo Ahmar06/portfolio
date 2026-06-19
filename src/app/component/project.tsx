@@ -81,7 +81,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={"/images/project3.png"}
+                  src={"/images/project3.PNG"}
                   width={600}
                   height={600}
                 />
